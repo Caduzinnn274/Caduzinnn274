@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Carlos
+-  📫 Meu email para contato é carlosbressan99@gmail.com
+- 👀 Estou interessado em aprimorar meus conhecimentos na área de tecnologia e programação
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem c#
